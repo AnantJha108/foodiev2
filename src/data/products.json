@@ -1,0 +1,27 @@
+[
+    {
+        "img": "https://cdn.pixabay.com/photo/2021/09/25/18/54/dish-6655595_960_720.jpg",
+        "name": "biryani",
+        "price": "200"
+    },
+    {
+        "img": "https://cdn.pixabay.com/photo/2017/09/09/21/55/noodles-2733636_960_720.jpg",
+        "name": "Chicken Gulafi",
+        "price": "600"
+    },
+    {
+        "img": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Seekh-Kebab-600x600.jpg",
+        "name": "Pasta",
+        "price": "40"
+    },
+    {
+        "img": "https://filmymantra.com/wp-content/uploads/2019/01/maggi1.jpg",
+        "name": "Maggi",
+        "price": "5"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.UxPWlqtYoC9Li3SOZkBBIwHaHa?pid=ImgDet&rs=1",
+        "name": "Chowmin",
+        "price": "40"
+    }
+]
